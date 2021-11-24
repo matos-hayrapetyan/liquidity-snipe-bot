@@ -1,0 +1,14 @@
+{
+  "name": "liquidity-snipe-bot",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {},
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.5.1",
+    "fs": "^0.0.1-security"
+  }
+}
